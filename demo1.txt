@@ -1,1 +1,2 @@
 Adding changes made by developer B.
+Adding a new feature as part of sprint 1.
